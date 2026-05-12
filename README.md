@@ -25,6 +25,7 @@ A desktop tool for reviewing and editing iTunes advisory tags in `.m4a` files.
 ## Important (Before Using This Tool)
 
 This app is designed for `.m4a` files used in Apple iTunes workflows.
+since mp3 files does not support explict tag
 
 If your music is in `.mp3`, convert it first in iTunes:
 
