@@ -1,5 +1,7 @@
 # M4A Advisory Editor
 
+![App Screenshot](screen.png)
+
 A desktop tool for reviewing and editing iTunes advisory tags in `.m4a` files.
 
 ## Features
@@ -19,6 +21,19 @@ A desktop tool for reviewing and editing iTunes advisory tags in `.m4a` files.
 
 - Python 3.10+
 - Windows recommended (best playback support in current implementation)
+
+## Important (Before Using This Tool)
+
+This app is designed for `.m4a` files used in Apple iTunes workflows.
+
+If your music is in `.mp3`, convert it first in iTunes:
+
+1. Open iTunes
+2. Go to `File`
+3. Choose `Convert`
+4. Click `Create AAC Version`
+
+After conversion, use the generated AAC/M4A files in this editor.
 
 ## Install
 
