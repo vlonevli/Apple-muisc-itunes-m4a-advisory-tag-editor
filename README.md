@@ -22,6 +22,10 @@ A desktop tool for reviewing and editing iTunes advisory tags in `.m4a` files.
 - Python 3.10+
 - Windows recommended (best playback support in current implementation)
 
+## Easy Installation
+
+For easy use, you can download the EXE file from the [Releases tab](../../releases). Simply download and run it without needing to install Python or dependencies.
+
 ## Important (Before Using This Tool)
 
 This app is designed for `.m4a` files used in Apple iTunes workflows.
@@ -36,13 +40,13 @@ If your music is in `.mp3`, convert it first in iTunes:
 
 After conversion, use the generated AAC/M4A files in this editor.
 
-## Install
+## Install (For Development)
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run
+## Run (For Development)
 
 ```bash
 python main.py
