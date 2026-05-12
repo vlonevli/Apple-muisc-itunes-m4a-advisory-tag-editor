@@ -61,9 +61,9 @@ python main.py
 - Playback fallback opens your default media player automatically when in-app MCI playback is unavailable.
 - The app uses `icon.png` as the window icon if present in the same folder as `main.py`.
 
-## Support
+## Support⭐
 
-If this project helps you, please consider giving it a star on GitHub. It helps more people discover the tool and supports future updates.
+If this project helps you, please consider giving it a ⭐ on GitHub. It helps more people discover the tool and supports future updates.
 
 ## License
 
