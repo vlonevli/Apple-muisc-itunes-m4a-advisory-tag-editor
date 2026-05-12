@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Build / packaging
+build/
+dist/
+*.spec.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
