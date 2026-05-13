@@ -1,4 +1,4 @@
-# M4A Advisory Editor
+# Apple music Advisory Editor
 
 ![App Screenshot](screen.png)
 
